@@ -1,3 +1,4 @@
 Hello everyone!This is my first git file.
 Please join us to development .
 Git has a mutable index called stage.
+Git tracks changes.
